@@ -6,12 +6,7 @@
 
 💡 Estou construindo meu conhecimento e desenvolvendo habilidades em várias áreas da tecnologia, com um grande interesse por inovação e desenvolvimento de soluções.
 
-🚀 Meu foco é aprender e crescer profissionalmente, participando de projetos que possam fazer a diferença, seja através de aplicativos web, softwares ou automação.
-
-🔗 Neste GitHub, você encontrará projetos iniciais que refletem meu comprometimento com a qualidade e o aperfeiçoamento contínuo.
-
-📫 Fique à vontade para me contatar pelo email dev.caioquis@outlook.com para discutir projetos, colaborações ou trocar ideias. 
-    
+🚀 Meu foco é aprender e crescer profissionalmente, participando de projetos que possam fazer a diferença, seja através de aplicativos web, softwares ou automação. 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
